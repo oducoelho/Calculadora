@@ -1,7 +1,7 @@
 <h1 align="center">Calculadora</h1>
 
 ## :memo: Descrição
-uma calculadora feita com base no HTML CSS e JavaScript
+a calculator made based on HTML CSS and JavaScript
 
 ## :books: Funcionalidades
 * perform basic day-to-day equations
